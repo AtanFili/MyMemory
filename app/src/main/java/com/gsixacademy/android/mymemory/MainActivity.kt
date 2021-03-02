@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
               updateGameWithFlip(position)
             }
 
+
         })
         rvBoard.adapter=adapter
         rvBoard.setHasFixedSize(true)
