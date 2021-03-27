@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774867628662",
+    "project_id": "my-memory-d9f0d",
+    "storage_bucket": "my-memory-d9f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774867628662:android:bc68dbd5886cb159202557",
+        "android_client_info": {
+          "package_name": "com.gsixacademy.android.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774867628662-ih3berbfak8p31vri26jn3i0bh47t5on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmCjfcKPOf7GOU56k5a0iV6F55hrEwt_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774867628662-ih3berbfak8p31vri26jn3i0bh47t5on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

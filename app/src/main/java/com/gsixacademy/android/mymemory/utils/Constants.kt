@@ -1,7 +1,8 @@
 package com.gsixacademy.android.mymemory.utils
 
 import com.gsixacademy.android.mymemory.R
-
+const val EXTRA_BOARD_SIZE ="EXTRA_BOARD_SIZE"
+const val EXTRA_GAME_NAME="EXTRA_BOARD_NAME"
 val DEFAULT_ICONS= listOf(
     R.drawable.ic_face,
     R.drawable.ic_flower,
